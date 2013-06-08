@@ -1,0 +1,147 @@
+libcfio_a-io.o: ../../server/io.c /home/hxm/WORK/nEver/esm-soft/include/netcdf.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h /usr/include/errno.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-x86_64/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/assert.h /apps/intel/impi/4.0.2.003/intel64/include/mpi.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h /usr/include/bits/wordsize.h \
+ /apps/intel/impi/4.0.2.003/intel64/include/mpio.h \
+ /apps/intel/impi/4.0.2.003/intel64/include/mpi.h ../../server/io.h \
+ ../../common/msg.h /usr/include/stdlib.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h /usr/include/sys/types.h \
+ /usr/include/bits/types.h /usr/include/bits/wordsize.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h /apps/intel/Compiler/11.1/069/c/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h /usr/include/time.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/wordsize.h \
+ /usr/include/alloca.h /apps/intel/Compiler/11.1/069/c/include/stddef.h \
+ ../../common/buffer.h ../../common/debug.h /usr/include/stdio.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h /usr/include/libio.h \
+ /usr/include/_G_config.h /apps/intel/Compiler/11.1/069/c/include/stddef.h \
+ /usr/include/wchar.h /apps/intel/Compiler/11.1/069/c/include/stddef.h \
+ /usr/include/gconv.h /usr/include/wchar.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ ../../common/quicklist.h ../../common/id.h ../../common/quickhash.h \
+ ../../common/cfio_types.h ../../common/cfio_error.h ../../common/map.h \
+ ../../common/define.h /home/hxm/WORK/nEver/esm-soft/include/pnetcdf.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h /usr/include/errno.h \
+ ../../common/times.h /usr/include/time.h \
+ /apps/intel/Compiler/11.1/069/c/include/stddef.h /usr/include/bits/time.h \
+ /usr/include/sys/time.h /usr/include/bits/time.h
+
+/home/hxm/WORK/nEver/esm-soft/include/netcdf.h:
+
+/apps/intel/Compiler/11.1/069/c/include/stddef.h:
+
+/usr/include/errno.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-x86_64/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/assert.h:
+
+/apps/intel/impi/4.0.2.003/intel64/include/mpi.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/apps/intel/impi/4.0.2.003/intel64/include/mpio.h:
+
+../../server/io.h:
+
+../../common/msg.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+../../common/buffer.h:
+
+../../common/debug.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/gconv.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+../../common/quicklist.h:
+
+../../common/id.h:
+
+../../common/quickhash.h:
+
+../../common/cfio_types.h:
+
+../../common/cfio_error.h:
+
+../../common/map.h:
+
+../../common/define.h:
+
+/home/hxm/WORK/nEver/esm-soft/include/pnetcdf.h:
+
+../../common/times.h:
+
+/usr/include/sys/time.h:
